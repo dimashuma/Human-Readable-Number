@@ -1,1 +1,1 @@
-https://dimashuma.github.io/human-readable-number/cv
+https://dimashuma.github.io/human-readable-number
